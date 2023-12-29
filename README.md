@@ -1,4 +1,3 @@
-# wumpus
 wumpus
 تحلیل بازی wumpus
 
